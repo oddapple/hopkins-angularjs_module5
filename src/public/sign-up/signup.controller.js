@@ -23,4 +23,8 @@ function SignUpController(SignUpService){
 
   signupctrl.menuinfo = SignUpService.data;
 
-}
+ 
+  
+};
+
+

@@ -1,10 +1,6 @@
 (function(){
   "use strict";
 
-/*ItemsinListController.$inject = ['itemsinList'];
-
-  function ItemsinListController(itemsinList){ */
-
     angular.module('public')
     .controller('ItemsinListController',ItemsinListController);
 

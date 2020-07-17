@@ -12,7 +12,7 @@
     infoctrl.data = SignUpService.retrieve();
 
     if(infoctrl.data === undefined)
-      infoctrl.message = "Register yourself please";
+      infoctrl.message = "Register, please!";
     else{
     infoctrl.response = SignUpService.data;
     console.log(infoctrl.response);
